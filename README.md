@@ -1,0 +1,10 @@
+- 👋 Hi, I’m GEOFFREY MWANGI WAMBUGU
+- 👀 I’m interested in data science, AI/machine learning, Networking and software development
+- 🌱 I’m currently learning bachelor of science in  computer technoloy 
+- - 💞️ I’m looking to collaborate on software development projects
+- CERTIFICATIONS:
+- GOOGLE IT SUPPORT PROFESSIONAL
+- GOOGLE DATA ANALYTICS
+- HUAWEI DATACOM
+- DATA ANALYSIS WITH R
+- 
